@@ -45,7 +45,7 @@ O processo de construção deste código e a lógica por trás da unificação e
 
 ## 👤 Autor
 
-Alan Vieira - *Engenheiro de Telecomunicações & Especialista em Dados*
+**Alan Vieira** - *Engenheiro de Telecomunicações & Especialista em Dados*
 
 - [LinkedIn](https://www.linkedin.com/in/alansilvavieira)
 
